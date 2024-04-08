@@ -3,6 +3,14 @@
 <h3 align="center">Machine learning engineering student, Leading design engineer of induction motors</h3>
 
 ---
+<div align="center">
+
+  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=italian&border_radius=20&date_format=%5BY%20%5DM%20j&card_width=500)](https://git.io/streak-stats)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=italian&no-bg=false&theme=oldie&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
 <h2>Languages and Tools, Skills and Abilities</h2>
 
 <h3>📋 Languages</h3>
