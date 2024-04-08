@@ -3,15 +3,34 @@
 <h3 align="center">Machine learning engineering student, Leading design engineer of induction motors</h3>
 
 ---
+
+<details>
+<summary>
+  <h2>GitHub stats</h2>
+</summary>
+
 <div align="center">
 
   [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=italian&border_radius=20&date_format=%5BY%20%5DM%20j&card_width=500)](https://git.io/streak-stats)
   [![trophy](https://github-profile-trophy.vercel.app/?username=italian&no-bg=false&theme=oldie&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
+ 
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=italian&hide=stars,issues&show=reviews,prs_merged,prs_merged_percentage&show_icons=true&theme=swift" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=italian" />
+  </a>
 
 </div>
 
+</details>
+
 ---
-<h2>Languages and Tools, Skills and Abilities</h2>
+
+<details>
+<summary>
+  <h2>My skills</h2>
+</summary>
 
 <h3>📋 Languages</h3>
 
@@ -69,3 +88,9 @@
 
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
+
+</details>
+
+---
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=italian&theme=high-contrast&height=400&custom_title=Contribution%20Graph&radius=16)](https://github.com/ashutosh00710/github-readme-activity-graph)
