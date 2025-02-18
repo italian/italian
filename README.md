@@ -11,7 +11,9 @@
 
 <div align="center">
 
-  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=italian&border_radius=20&date_format=%5BY%20%5DM%20j&card_width=500)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=italian&border_radius=20&date_format=%5BY%20%5DM%20j&card_width=500)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com/?user=italian)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=italian&theme=dark&date_format=j%20M%5B%20Y%5D&card_width=500)](https://git.io/streak-stats)
   [![trophy](https://github-profile-trophy.vercel.app/?username=italian&no-bg=false&theme=oldie&column=-1&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C)](https://github.com/ryo-ma/github-profile-trophy)
  
   <a href="https://github.com/anuraghazra/github-readme-stats">
